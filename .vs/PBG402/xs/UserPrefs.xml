@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{61003D3B-0F08-407C-933F-4B9DEB4F0D63}|Default">
+  <MonoDevelop.Ide.ItemProperties.PBG402 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PBG402/User.cs">
+    <Files>
+      <File FileName="PBG402/User.cs" Line="32" Column="51" />
+      <File FileName="PBG402/Cells.cs" Line="14" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PBG402" expanded="True">
+            <Node name="PBG402" expanded="True">
+              <Node name="User.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

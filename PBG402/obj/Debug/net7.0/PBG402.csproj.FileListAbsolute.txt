@@ -1,0 +1,15 @@
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/bin/Debug/net7.0/PBG402
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/bin/Debug/net7.0/PBG402.deps.json
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/bin/Debug/net7.0/PBG402.runtimeconfig.json
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/bin/Debug/net7.0/PBG402.dll
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/bin/Debug/net7.0/PBG402.pdb
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/PBG402.csproj.AssemblyReference.cache
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/PBG402.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/PBG402.AssemblyInfoInputs.cache
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/PBG402.AssemblyInfo.cs
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/PBG402.csproj.CoreCompileInputs.cache
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/PBG402.dll
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/refint/PBG402.dll
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/PBG402.pdb
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/PBG402.genruntimeconfig.cache
+/Users/baderaldenalmasre/Project/c#/PBG402/PBG402/obj/Debug/net7.0/ref/PBG402.dll
